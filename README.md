@@ -3,7 +3,7 @@
 
 
 [![](https://img.shields.io/badge/OS-Windows-orange?logo=Windows)](https://www.microsoft.com/pl-pl/windows/)
-[![](https://img.shields.io/badge/IDE-IntelliJ_kit-orange)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/IDE-IntelliJ_kit-orange?logo=IntelliJ_IDEA)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Code-Kotlin-orange)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/Code-Python-orange)](https://www.python.org/)
 [![](https://img.shields.io/badge/Tools-PostgreSQL-orange)](https://www.postgresql.org/)
