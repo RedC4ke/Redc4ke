@@ -3,4 +3,4 @@
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redc4ke)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redc4ke?count_private=true?show_icons=true?theme=darcula)
