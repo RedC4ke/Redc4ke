@@ -2,6 +2,11 @@
 [![Header](https://raw.githubusercontent.com/RedC4ke/Redc4ke/main/Banner.png "Header")](https://www.linkedin.com/in/micha%C5%82-wyczarski/)
 
 ![](https://img.shields.io/badge/OS-Windows-orange)
+![](https://img.shields.io/badge/IDE-Intellij kit-orange)
+![](https://img.shields.io/badge/Code-Kotlin-orange)
+![](https://img.shields.io/badge/Code-Python-orange)
+![](https://img.shields.io/badge/Tools-PostgreSQL-orange)
+![](https://img.shields.io/badge/Tools-Firebase-orange)
 
 ## 📈 GitHub Stats
 
