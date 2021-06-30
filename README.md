@@ -4,10 +4,10 @@
 
 [![](https://img.shields.io/badge/OS-Windows-orange?logo=Windows)](https://www.microsoft.com/pl-pl/windows/)
 [![](https://img.shields.io/badge/IDE-IntelliJ_kit-orange?logo=IntelliJIDEA)](https://www.jetbrains.com/)
-[![](https://img.shields.io/badge/Code-Kotlin-orange?logo=Kotlin)](https://kotlinlang.org/)
-[![](https://img.shields.io/badge/Code-Python-orange)](https://www.python.org/)
-[![](https://img.shields.io/badge/Tools-PostgreSQL-orange)](https://www.postgresql.org/)
-[![](https://img.shields.io/badge/Tools-Firebase-orange)](https://firebase.google.com/)
+[![](https://img.shields.io/badge/Code-Kotlin-orange?logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/Code-Python-orange?logo=Python)](https://www.python.org/)
+[![](https://img.shields.io/badge/Tools-PostgreSQL-orange?logo=PostgreSQL)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/Tools-Firebase-orange?logo=Firebase)](https://firebase.google.com/)
 
 
 
