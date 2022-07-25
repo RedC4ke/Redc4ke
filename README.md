@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/OS-Windows-orange?logo=Windows&style=flat-square)](https://www.microsoft.com/pl-pl/windows/)
 [![](https://img.shields.io/badge/IDE-IntelliJ_kit-orange?logo=IntelliJIDEA&style=flat-square)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Code-Kotlin-orange?logo=Kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/Code-Flutter-orange?logo=Flutter&logoColor=white&style=flat-square)](https://flutter.dev/)
 [![](https://img.shields.io/badge/Code-Python-orange?logo=Python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![](https://img.shields.io/badge/Tools-PostgreSQL-orange?logo=PostgreSQL&logoColor=white&style=flat-square)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/Tools-Firebase-orange?logo=Firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
