@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/RedC4ke/Redc4ke/main/Banner.png "Header")](https://www.linkedin.com/in/micha%C5%82-wyczarski/)
+[![Header](https://raw.githubusercontent.com/RedC4ke/Redc4ke/main/Banner.png "Header")](https://www.linkedin.com/in/redc4ke/)
 
 
 [![](https://img.shields.io/badge/OS-Windows-orange?logo=Windows&style=flat-square)](https://www.microsoft.com/pl-pl/windows/)
